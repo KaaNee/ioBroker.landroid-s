@@ -29,6 +29,9 @@
     "type": "git",
     "url": "git+https://github.com/MeisterTR/iobroker.landroid-s.git"
   },
+  "publishConfig": { 
+    "registry": "https://npm.pkg.github.com/" 
+  },
   "scripts": {
     "test": "node node_modules/mocha/bin/mocha --exit"
   },
