@@ -1,3 +1,6 @@
+# THIS IS A FORK, ORIGINAL REPO IS CLOSED
+This was created to add some changes to have it working with the new worx-api v2, with support / changes from https://github.com/MeisterTR
+
 ![Logo](admin/landroid-s2.png)
 # ioBroker.landroid-s
 
